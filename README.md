@@ -1,4 +1,5 @@
 # python-template
+
 ## Setup
 
 ### Linux Users
@@ -27,3 +28,8 @@
 - build the docker container using `docker-compose build` (You need to make sure that docker has enough memory to build the image)
 - start the jupyter lab docker container using `docker-compose up`
 - Copy the link (incl. token) from the console and paste it into the browser
+
+## Git LFS
+
+- In order to use git lfs, please refer to the [official instructions](https://git-lfs.github.com/)
+- Configure which files to store in Git LFS using the `git lfs track "*.file_ending"`command
