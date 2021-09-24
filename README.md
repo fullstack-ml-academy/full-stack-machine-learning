@@ -2,19 +2,13 @@
 
 ## Setup
 
-### Linux Users
+### Linux and Mac Users
 
-- create new python environment: `python3 -m venv .venv`
-- activate python environment: `. .venv/bin/activate`
-- update the pip version: `pip install --upgrade pip`
-- install dependencies: `pip install -r requirements.txt`
+- run the setup script `./setup.sh` or `sh setup.sh`
 
 ### Windows Users
 
-- create new python environment: `python -m venv .venv`
-- activate python environment: `.\.venv\Scripts\Activate.ps1`
-- update the pip version: `pip install --upgrade pip`
-- install dependencies: `pip install -r requirements.txt`
+- run the setup script `.\setup.ps1`
 
 ## Development
 

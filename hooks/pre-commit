@@ -1,0 +1,41 @@
+#!/bin/sh
+
+STAGED_FILES=$(git diff --cached --name-only --diff-filter=ACM | grep ".py\{0,1\}$")
+FLAKE="$(git rev-parse --show-toplevel)/.venv/bin/flake8"
+
+if [[ "$STAGED_FILES" = "" ]]; then
+  exit 0
+fi
+
+PASS=true
+
+echo "\nValidating Python files:\n"
+
+# Check for flake8
+if [[ ! -x "$FLAKE" ]]; then
+  printf "\t\033[41mPlease install flake8\033[0m (pip install flake8)"
+  exit 1
+fi
+
+for FILE in $STAGED_FILES
+do
+	"$FLAKE" "$FILE"
+
+  if [[ "$?" == 0 ]]; then
+    echo "\t\033[32mPassed: $FILE\033[0m"
+  else
+    echo "\t\033[41mFailed: $FILE\033[0m"
+    PASS=false
+  fi
+done
+
+echo "\nPython validation completed!\n"
+
+if ! $PASS; then
+  echo "\033[41mCOMMIT FAILED:\033[0m Your commit contains files that should pass flake8 but do not. Please fix the flake8 errors and try again.\n"
+  exit 1
+else
+  echo "\033[42mCOMMIT SUCCEEDED\033[0m\n"
+fi
+
+exit $?
