@@ -1,4 +1,4 @@
-# python-template
+# Full-Stack Machine Learning
 
 ## Setup
 
