@@ -1,7 +1,11 @@
-jupyterlab:
-  build: .
-  ports:
-    - "8888:8888"
-  volumes:
-    - ./data:/data
-    - ./notepads:/notepads
+version: "2.1"
+
+services:
+  jupyterlab:
+    build: .
+    platform: linux/amd64
+    ports:
+      - "8888:8888"
+    volumes:
+      - ./data:/data
+      - ./notepads:/notepads
