@@ -10,7 +10,6 @@ All notebooks under `/notepads` are structured and can be identified via the fol
 
 E.g. this identifier referes to folder 2 and notebook with code EDA.
 
-
 ## Setup
 
 ### Linux and Mac Users
@@ -27,7 +26,7 @@ E.g. this identifier referes to folder 2 and notebook with code EDA.
 - run python script: `python <filename.py> `, e.g. `python train.py`
 - install new dependency: `pip install sklearn`
 - save current installed dependencies back to requirements.txt: `pip freeze > requirements.txt`
-- to start Jupyter lab run `jupyter lab`
+- to start Jupyter lab run `jupyter lab --ip=127.0.0.1 --port=8888`
 
 ## Docker
 
