@@ -19,6 +19,7 @@ E.g. this identifier referes to folder 2 and notebook with code EDA.
 ### Windows Users
 
 - run the setup script `.\setup.ps1`
+- if running the script does not work due to access rights, try following command in your terminal: `Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser`
 
 ## Development
 
