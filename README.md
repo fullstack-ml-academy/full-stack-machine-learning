@@ -31,5 +31,5 @@ E.g. this identifier referes to folder 2 and notebook with code EDA.
 - to start Jupyter lab run `jupyter lab --ip=127.0.0.1 --port=8888`
 
 
-# python is cool
+# python is cool..
 
