@@ -1,0 +1,8 @@
+{
+    // List of extensions which should be recommended for users of this workspace.
+    "recommendations": [
+        "ms-python.python",
+        "eamodio.gitlens",
+        "ms-toolsai.jupyter",
+    ]
+}
