@@ -185,12 +185,12 @@ Deutsch verfügbar)
 
 ### Representation Learning (Autoencoder, PCA, t-SNE)
 * **Artikel**:
-    * "Understanding Autoencoders" (z.B. "Autoencoders and the Denoising Feature" auf Towards Data Science): [Link](https://towardsdatascience.com/autoencoders-and-the-denoising-feature-from-theory-to-practice-db7f7ad8fc78).
+    * "Autoencoders and the Denoising Feature" auf Towards Data Science: [Link](https://towardsdatascience.com/autoencoders-and-the-denoising-feature-from-theory-to-practice-db7f7ad8fc78).
     * "Principal Component Analysis (PCA) Explained" auf Towards Data Science: [Link](https://towardsdatascience.com/principal-component-analysis-pca-8133b02f11bd) (Hauptkomponentenanalyse auf Deutsch).
     * "How to Use t-SNE Effectively" auf Distill.pub: [Link](https://distill.pub/2016/misread-tsne/)
 * **Videos**:
-    * StatQuest: "Principal Component Analysis (PCA), Step-by-Step"
-    * StatQuest: "t-SNE, Clearly Explained"
+    * StatQuest: "Principal Component Analysis (PCA), Step-by-Step" [Link](https://www.youtube.com/watch?v=FgakZw6K1QQ)
+    * StatQuest: "t-SNE, Clearly Explained" [Link](https://www.youtube.com/watch?v=NEaUSP4YerM)
 
 ---
 
