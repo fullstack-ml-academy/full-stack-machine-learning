@@ -59,7 +59,7 @@ Diese Liste enthält ergänzende Materialien wie Bücher, Artikel, Online-Kurse 
 ## Python für Data Science 🐍
 
 * **Bücher**:
-    * "Python for Data Analysis" von Wes McKinney (bereits erwähnt, aber hier entscheidend). (Deutscher Titel oft: "Python zur Datenanalyse")
+    * "Python for Data Analysis" von Wes McKinney 
     * "Fluent Python" von Luciano Ramalho: Für diejenigen, die idiomatischeren und effizienteren Python-Code schreiben möchten.
 * **Tutorials & Dokumentation**:
     * Offizielles Python-Tutorial: [docs.python.org/3/tutorial/](https://docs.python.org/3/tutorial/)
@@ -83,7 +83,7 @@ Diese Liste enthält ergänzende Materialien wie Bücher, Artikel, Online-Kurse 
     * "Understanding Descriptive and Inferential Statistics" - Viele gute Artikel finden sich auf Towards Data Science oder ähnlichen Blogs.
 Deutsch verfügbar)
 * **Videos**:
-    * "3Blue1Brown Youtube-Kanal": Statistische und mathematische Grundlagen gut erklärt und visualisiert.
+    * 3Blue1Brown Youtube-Kanal: Statistische und mathematische Grundlagen gut erklärt und visualisiert.
 
 ---
 
@@ -101,7 +101,7 @@ Deutsch verfügbar)
 
 ### k-Nächste-Nachbarn (kNN)
 * **Videos**:
-    * StatQuest: k-nearest neighbors (kNN) clearly explained (Suche nach dem neuesten Video)
+    * StatQuest: "k-nearest neighbors (kNN) clearly explained"
 * **Artikel**:
     * "A Detailed Introduction to K-Nearest Neighbor (KNN) Algorithm" auf Towards Data Science.
 
@@ -109,12 +109,12 @@ Deutsch verfügbar)
 * **Bücher**:
     * Kapitel in "An Introduction to Statistical Learning."
 * **Videos**:
-    * StatQuest: Linear Regression, Clearly Explained!!!
+    * StatQuest: "Linear Regression, Clearly Explained"
     * Khan Academy Videos zur linearen Regression.
 
 ### Logistische Regression
 * **Videos**:
-    * StatQuest: Logistic Regression
+    * StatQuest: "Logistic Regression"
 * **Artikel**:
     * "Logistic Regression: Detailed Overview" auf Towards Data Science.
 
@@ -129,13 +129,13 @@ Deutsch verfügbar)
 
 ### Support Vector Machines (SVM)
 * **Videos**:
-    * StatQuest: Support Vector Machines (SVMs), Clearly Explained
+    * StatQuest: "Support Vector Machines (SVMs), Clearly Explained"
 * **Artikel**:
     * "Understanding Support Vector Machine (SVM) algorithm" auf Towards Data Science.
 
 ### Naive Bayes
 * **Videos**:
-    * StatQuest: Naive Bayes, Clearly Explained
+    * StatQuest: "Naive Bayes, Clearly Explained"
 * **Artikel**:
     * "Naive Bayes Classifier Explained" auf Towards Data Science.
 
@@ -150,7 +150,7 @@ Deutsch verfügbar)
     * "Hyperparameter Tuning Techniques in Machine Learning" auf diversen Blogs.
     * "A Short Introduction to the Curse of Dimensionality" von Lilian Weng.
 * **Videos**:
-    * StatQuest: ROC and AUC, Clearly Explained!
+    * StatQuest: "ROC and AUC, Clearly Explained"
     * Videos zu Kreuzvalidierung und Hyperparameter-Tuning (z.B. von Sentdex oder Krish Naik auf YouTube).
 
 ### Modellinterpretation (SHAP)
@@ -167,9 +167,6 @@ Deutsch verfügbar)
 * **Bücher**:
     * "Deep Learning" von Ian Goodfellow, Yoshua Bengio und Aaron Courville (Das "Deep Learning Buch" - kostenlos online).
     * "Deep Learning with Python" von François Chollet (Entwickler von Keras). (Deutscher Titel oft: "Deep Learning mit Python und Keras")
-* **Online-Kurse**:
-    * fast.ai Kurse (oben erwähnt).
-    * Udacity's Deep Learning Nanodegree.
 * **Videos**:
     * 3Blue1Brown YouTube-Kanal: Serie zu Neuronalen Netzen für ein intuitives Verständnis.
     * Lex Fridman Podcast: Interviews mit führenden KI-Forschern (eher für breiteren Kontext und Inspiration).
@@ -178,9 +175,6 @@ Deutsch verfügbar)
 ### PyTorch
 * **Dokumentation & Tutorials**:
     * Offizielle PyTorch-Tutorials: [pytorch.org/tutorials/](https://pytorch.org/tutorials/)
-* **Online-Kurse**:
-    * Udacity: "Intro to Deep Learning with PyTorch".
-    * DeepLearning.AI PyTorch Kurse auf Coursera.
 
 ### Convolutional Neural Networks (CNN)
 * **Artikel**:
@@ -195,8 +189,8 @@ Deutsch verfügbar)
     * "Principal Component Analysis (PCA) Explained" auf diversen Blogs. (Hauptkomponentenanalyse auf Deutsch)
     * "How to Use t-SNE Effectively" auf Distill.pub.
 * **Videos**:
-    * StatQuest: Principal Component Analysis (PCA), Step-by-Step
-    * StatQuest: t-SNE, Clearly Explained
+    * StatQuest: "Principal Component Analysis (PCA), Step-by-Step"
+    * StatQuest: "t-SNE, Clearly Explained"
 
 ---
 
@@ -212,6 +206,76 @@ Zusätzlich zu den im Kurs bereitgestellten Datensätzen gibt es viele öffentli
 * **EU Open Data Portal**: [data.europa.eu/euodp/de/home](https://data.europa.eu/euodp/de/home) - Datensätze von EU-Institutionen.
 * **Statistisches Bundesamt (Destatis)**: [www.destatis.de](https://www.destatis.de) - Für deutsche Statistiken.
 * **Awesome Public Datasets (GitHub)**: [github.com/awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - Eine kuratierte Liste öffentlicher Datensätze.
+
+---
+
+## Tool- und Software-Empfehlungen 🛠️💻
+
+Hier ist eine Liste empfohlener Tools und Software, die im Bereich Full-Stack Machine Learning häufig verwendet werden und für Ihre Lernreise nützlich sein können:
+
+### Programmiersprachen & Kernbibliotheken
+
+* **Python**: Die dominierende Sprache im Bereich Machine Learning und Data Science.
+    * **NumPy**: Für numerische Berechnungen, insbesondere Array-Operationen.
+    * **Pandas**: Für Datenmanipulation und -analyse (Stichwort: DataFrames).
+    * **Scikit-learn**: Umfassende Bibliothek für klassisches Machine Learning (Klassifikation, Regression, Clustering, Dimensionsreduktion, Modellselektion, Preprocessing).
+    * **Statsmodels**: Für statistische Modellierung, Tests und Datenexploration.
+* **R**: Eine weitere beliebte Sprache für statistische Analysen und Datenvisualisierung.
+* **SQL**: Essentiell für die Arbeit mit relationalen Datenbanken und Datenabfragen.
+
+### Deep Learning Frameworks
+
+* **TensorFlow (mit Keras)**: Ein umfangreiches Open-Source-Framework für Machine Learning und insbesondere Deep Learning, entwickelt von Google. Keras dient als benutzerfreundliche High-Level-API.
+* **PyTorch**: Ein populäres Open-Source-Framework für Deep Learning, bekannt für seine Flexibilität und Python-freundliche Natur, entwickelt von Facebooks KI-Forschungslabor.
+
+### IDEs (Integrierte Entwicklungsumgebungen) und Code-Editoren
+
+* **Visual Studio Code (VS Code)**: Ein sehr beliebter, kostenloser und erweiterbarer Code-Editor mit exzellenter Python- und Jupyter-Unterstützung.
+* **JupyterLab / Jupyter Notebook**: Interaktive, webbasierte Umgebungen, ideal für explorative Datenanalyse, Visualisierungen und das Teilen von Code. (Wie in diesem Kurs verwendet)
+* **PyCharm**: Eine leistungsstarke IDE speziell für Python, mit einer kostenlosen Community-Version und einer kostenpflichtigen Professional-Version.
+* **Google Colaboratory (Colab)**: Kostenlose Jupyter-Notebook-Umgebung, die in der Cloud läuft und Zugriff auf GPUs/TPUs bietet, ideal für Deep Learning Experimente.
+
+### Versionskontrolle
+
+* **Git**: Das Standard-System für verteilte Versionskontrolle, unerlässlich für die Zusammenarbeit und das Nachverfolgen von Code-Änderungen.
+* **GitHub / GitLab / Bitbucket**: Web-basierte Plattformen für das Hosting von Git-Repositories, die zusätzliche Funktionen für Kollaboration, Issue-Tracking und CI/CD bieten.
+
+### Datenvisualisierung
+
+* **Matplotlib**: Eine grundlegende Bibliothek zur Erstellung statischer, animierter und interaktiver Visualisierungen in Python.
+* **Seaborn**: Baut auf Matplotlib auf und bietet eine High-Level-Schnittstelle für ansprechendere und informativere statistische Grafiken.
+* **Plotly / Dash**: Für interaktive Web-basierte Visualisierungen und Dashboards. Dash ist ein Framework zum Erstellen von Analyseanwendungen mit Python.
+* **Tableau / Microsoft Power BI**: Führende Business-Intelligence-Tools für fortgeschrittene Datenvisualisierung und Dashboarding (eher für BI-Analysten, aber nützlich zu kennen).
+
+### MLOps und Deployment
+
+* **Docker**: Zum Erstellen, Verteilen und Ausführen von Anwendungen in Containern, um Konsistenz über verschiedene Umgebungen hinweg sicherzustellen.
+* **Kubernetes (K8s)**: Ein System zur Automatisierung der Bereitstellung, Skalierung und Verwaltung von containerisierten Anwendungen.
+* **MLflow**: Eine Open-Source-Plattform zur Verwaltung des gesamten Machine-Learning-Lebenszyklus, einschließlich Experiment-Tracking, Code-Packaging, Modell-Deployment und Modell-Registry.
+* **DVC (Data Version Control)**: Ein Tool zur Versionskontrolle von Daten und Machine-Learning-Modellen, oft in Verbindung mit Git verwendet.
+* **FastAPI / Flask**: Python-Webframeworks, die häufig zum Erstellen von APIs für das Deployment von ML-Modellen verwendet werden.
+* **BentoML**: Ein Framework zum Erstellen produktionsreifer KI-Anwendungen.
+
+### Cloud-Plattformen
+
+Viele Cloud-Anbieter bieten umfassende Suiten für Data Science, Machine Learning und MLOps:
+
+* **Amazon Web Services (AWS)**:
+    * **Amazon SageMaker**: Vollständig verwaltete Plattform für den gesamten ML-Workflow.
+    * **EC2** (Compute), **S3** (Storage), diverse Datenbankdienste.
+* **Google Cloud Platform (GCP)**:
+    * **Vertex AI**: Einheitliche ML-Plattform.
+    * **Google Compute Engine**, **Cloud Storage**, **BigQuery**.
+* **Microsoft Azure**:
+    * **Azure Machine Learning**: Umfassender Dienst für ML-Entwicklung und -Deployment.
+    * **Virtual Machines**, **Blob Storage**, diverse Datenbankdienste.
+
+### Datenbanktechnologien
+
+* **Relationale Datenbanken (SQL)**: z.B. PostgreSQL, MySQL, SQLite.
+* **NoSQL-Datenbanken**: z.B. MongoDB (dokumentenorientiert), Redis (Key-Value), Cassandra (spaltenorientiert) – je nach Anwendungsfall.
+
+Diese Liste ist nicht abschließend, aber sie deckt viele der wichtigsten Werkzeuge ab, denen Sie in der Praxis begegnen werden. Die Auswahl der richtigen Tools hängt oft von den spezifischen Anforderungen des Projekts, des Teams und der Organisation ab.
 
 ---
 
@@ -249,7 +313,6 @@ Tragen Sie zu Projekten bei und sammeln Sie praktische Erfahrung:
 * **Kaggle Wettbewerbe**: [kaggle.com/competitions](https://www.kaggle.com/competitions) - Nehmen Sie an Wettbewerben teil, um Ihre Fähigkeiten zu testen und von anderen zu lernen. Oft gibt es auch Team-Möglichkeiten.
 * **DataKind**: [datakind.org](https://www.datakind.org) - Organisationen, die Data Science im Dienste der Menschheit einsetzen (Projekte oft für erfahrene Fachleute, aber es gibt auch Möglichkeiten, sich zu engagieren).
 * **Omdena**: [omdena.com](https://omdena.com/) - Kollaborative KI-Projekte zur Lösung realer Probleme.
-* **Zooniverse**: [zooniverse.org](https://www.zooniverse.org) - Bürgerwissenschaftliche Projekte, einige davon beinhalten Datenanalyse oder Bilderkennung.
 
 ---
 
@@ -257,6 +320,12 @@ Tragen Sie zu Projekten bei und sammeln Sie praktische Erfahrung:
 
 Konferenzen sind eine großartige Möglichkeit, sich über die neuesten Entwicklungen zu informieren und Kontakte zu knüpfen (viele bieten auch Online-Zugang oder Aufzeichnungen):
 
+* **International**:
+    * **NeurIPS** (Conference on Neural Information Processing Systems): [nips.cc](https://nips.cc/)
+    * **ICML** (International Conference on Machine Learning): [icml.cc](https://icml.cc/)
+    * **CVPR** (Conference on Computer Vision and Pattern Recognition): [cvpr.thecvf.com](http://cvpr.thecvf.com/)
+    * **ACL** (Annual Meeting of the Association for Computational Linguistics): [aclweb.org](https://www.aclweb.org/portal/)
+    * **KDD** (ACM SIGKDD Conference on Knowledge Discovery and Data Mining): [kdd.org](https://www.kdd.org/)
 * **Europa / Deutschland (Beispiele)**:
     * **PyData Conferences**: [pydata.org](https://pydata.org/) (weltweit, auch in Europa, z.B. Berlin, Amsterdam)
     * **ODSC (Open Data Science Conference) Europe**: [odsc.com/europe/](https://odsc.com/europe/)
