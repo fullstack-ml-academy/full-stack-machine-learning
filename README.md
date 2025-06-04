@@ -40,11 +40,11 @@ Diese Liste enthält ergänzende Materialien wie Bücher, Artikel, Online-Kurse 
 ## Allgemeine Übersichten zu Data Science & Machine Learning 📚
 
 * **Bücher**:
-    * "Python for Data Analysis" von Wes McKinney: Ein praktischer Leitfaden zur Datenmanipulation mit Pandas. Unverzichtbar für Python-basierte Data Science. (Deutscher Titel oft: "Python zur Datenanalyse")
-    * "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow" von Aurélien Géron: Ein umfassendes und sehr beliebtes Buch, das eine breite Palette von ML-Konzepten und Implementierungen abdeckt. (Deutscher Titel oft: "Praxiseinstieg Machine Learning mit Scikit-Learn, Keras & TensorFlow")
+    * "Python for Data Analysis" von Wes McKinney: Ein praktischer Leitfaden zur Datenmanipulation mit Pandas. Unverzichtbar für Python-basierte Data Science. (Deutscher Titel "Datenanalyse mit Python": [Link zum Kauf](https://www.genialokal.de/Produkt/Wes-Mckinney/Datenanalyse-mit-Python_lid_50209543.html))
+    * "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow" von Aurélien Géron: Ein umfassendes und sehr beliebtes Buch, das eine breite Palette von ML-Konzepten und Implementierungen abdeckt. (Deutscher Titel "Praxiseinstieg Machine Learning mit Scikit-Learn, Keras & TensorFlow" [Link zum Kauf](https://www.genialokal.de/Produkt/Aurelien-Geron/Praxiseinstieg-Machine-Learning-mit-Scikit-Learn-Keras-und-TensorFlow_lid_51163356.html))
     * "An Introduction to Statistical Learning (with Applications in R or Python)" von Gareth James, Daniela Witten, Trevor Hastie und Robert Tibshirani: Bietet einen klaren und zugänglichen Überblick über statistische Lernmethoden. Die Python-Version ist besonders relevant. (Kostenloses PDF online verfügbar unter [www.statlearning.com](https://www.statlearning.com/))
     * "The Elements of Statistical Learning" von Trevor Hastie, Robert Tibshirani und Jerome Friedman: Ein fortgeschritteneres und umfassenderes Werk, oft als eine Bibel des maschinellen Lernens betrachtet. (Kostenloses PDF online verfügbar unter [hastie.su.domains/ElemStatLearn/](https://hastie.su.domains/ElemStatLearn/))
-    * "Pattern Recognition and Machine Learning" von Christopher M. Bishop: Ein klassisches, eher theoretisches Lehrbuch zum maschinellen Lernen.
+    * "Pattern Recognition and Machine Learning" von Christopher M. Bishop: Ein klassisches, eher theoretisches Lehrbuch zum maschinellen Lernen. [Link zum Kauf](https://www.genialokal.de/Produkt/Christopher-M-Bishop/Pattern-Recognition-and-Machine-Learning_lid_33700982.html)
 * **Websites & Blogs**:
 
     * [Towards Data Science](https://towardsdatascience.com/): Eine Medium-Publikation mit einer riesigen Sammlung von Artikeln zu Data Science, ML und KI.
@@ -59,8 +59,8 @@ Diese Liste enthält ergänzende Materialien wie Bücher, Artikel, Online-Kurse 
 ## Python für Data Science 🐍
 
 * **Bücher**:
-    * "Python for Data Analysis" von Wes McKinney 
-    * "Fluent Python" von Luciano Ramalho: Für diejenigen, die idiomatischeren und effizienteren Python-Code schreiben möchten.
+    * "Python for Data Analysis" von Wes McKinney hier besonders relevant. [Link zum Kauf](https://www.genialokal.de/Produkt/Wes-Mckinney/Datenanalyse-mit-Python_lid_50209543.html)
+    * "Fluent Python" von Luciano Ramalho: Für diejenigen, die idiomatischeren und effizienteren Python-Code schreiben möchten. [Link zum Kauf](https://www.genialokal.de/Produkt/Luciano-Ramalho/Fluent-Python_lid_43515403.html)
 * **Tutorials & Dokumentation**:
     * Offizielles Python-Tutorial: [docs.python.org/3/tutorial/](https://docs.python.org/3/tutorial/)
     * NumPy-Dokumentation: [numpy.org/doc/stable/](https://numpy.org/doc/stable/)
@@ -80,8 +80,7 @@ Diese Liste enthält ergänzende Materialien wie Bücher, Artikel, Online-Kurse 
 * **Online-Kurse**:
     * Khan Academy's Statistics and Probability: [khanacademy.org/math/statistics-probability](https://khanacademy.org/math/statistics-probability) (Viele Inhalte auch auf Deutsch verfügbar)
 * **Artikel**:
-    * "Understanding Descriptive and Inferential Statistics" - Viele gute Artikel finden sich auf Towards Data Science oder ähnlichen Blogs.
-Deutsch verfügbar)
+    * "Descriptive and Inferential Statistics" auf Towards Data Science [Link](https://towardsdatascience.com/descriptive-and-inferential-statistics-862b70ddc7a7/)
 * **Videos**:
     * 3Blue1Brown Youtube-Kanal: [youtube.com/@3blue1brown](https://www.youtube.com/c/3blue1brown) - Statistische und mathematische Grundlagen gut erklärt und visualisiert.
 
@@ -120,7 +119,7 @@ Deutsch verfügbar)
 
 ### Entscheidungsbäume & Ensemble-Methoden (Random Forest, AdaBoost)
 * **Bücher**:
-    * Kapitel in "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow." (Deutscher Titel oft: "Praxiseinstieg Machine Learning mit Scikit-Learn, Keras & TensorFlow")
+    * Kapitel in "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow." (Deutscher Titel: "Praxiseinstieg Machine Learning mit Scikit-Learn, Keras & TensorFlow")
 * **Videos**:
     * StatQuest: Decision Trees (z.B. [Playlist](https://www.youtube.com/playlist?list=PLblh5JKOoLUKAtDViTvRGFpphEc24M-QH)), Random Forests, AdaBoost, Gradient Boost (XGBoost) - alle haben eigene Videos.
 * **Artikel**:
@@ -215,65 +214,72 @@ Hier ist eine Liste empfohlener Tools und Software, die im Bereich Full-Stack Ma
 
 ### Programmiersprachen & Kernbibliotheken
 
-* **Python**: Die dominierende Sprache im Bereich Machine Learning und Data Science.
-    * **NumPy**: Für numerische Berechnungen, insbesondere Array-Operationen.
-    * **Pandas**: Für Datenmanipulation und -analyse (Stichwort: DataFrames).
-    * **Scikit-learn**: Umfassende Bibliothek für klassisches Machine Learning (Klassifikation, Regression, Clustering, Dimensionsreduktion, Modellselektion, Preprocessing).
-    * **Statsmodels**: Für statistische Modellierung, Tests und Datenexploration.
-* **R**: Eine weitere beliebte Sprache für statistische Analysen und Datenvisualisierung.
-* **SQL**: Essentiell für die Arbeit mit relationalen Datenbanken und Datenabfragen.
+* **Python**: Die dominierende Sprache im Bereich Machine Learning und Data Science. ([python.org](https://www.python.org/))
+    * **NumPy**: Für numerische Berechnungen, insbesondere Array-Operationen. ([numpy.org](https://numpy.org/))
+    * **Pandas**: Für Datenmanipulation und -analyse (Stichwort: DataFrames). ([pandas.pydata.org](https://pandas.pydata.org/))
+    * **Scikit-learn**: Umfassende Bibliothek für klassisches Machine Learning. ([scikit-learn.org](https://scikit-learn.org/))
+    * **Statsmodels**: Für statistische Modellierung, Tests und Datenexploration. ([www.statsmodels.org](https://www.statsmodels.org/))
+* **R**: Eine weitere beliebte Sprache für statistische Analysen und Datenvisualisierung. ([www.r-project.org](https://www.r-project.org/))
+* **SQL**: Essentiell für die Arbeit mit relationalen Datenbanken und Datenabfragen. (Standard-Sprache, Infos z.B. via [Wikipedia](https://de.wikipedia.org/wiki/SQL))
 
 ### Deep Learning Frameworks
 
-* **TensorFlow (mit Keras)**: Ein umfangreiches Open-Source-Framework für Machine Learning und insbesondere Deep Learning, entwickelt von Google. Keras dient als benutzerfreundliche High-Level-API.
-* **PyTorch**: Ein populäres Open-Source-Framework für Deep Learning, bekannt für seine Flexibilität und Python-freundliche Natur, entwickelt von Facebooks KI-Forschungslabor.
+* **TensorFlow (mit Keras)**: Ein umfangreiches Open-Source-Framework für Machine Learning und insbesondere Deep Learning. Keras dient als benutzerfreundliche High-Level-API. ([www.tensorflow.org](https://www.tensorflow.org/), Keras: [keras.io](https://keras.io/))
+* **PyTorch**: Ein populäres Open-Source-Framework für Deep Learning, bekannt für seine Flexibilität und Python-freundliche Natur. ([pytorch.org](https://pytorch.org/))
 
 ### IDEs (Integrierte Entwicklungsumgebungen) und Code-Editoren
 
-* **Visual Studio Code (VS Code)**: Ein sehr beliebter, kostenloser und erweiterbarer Code-Editor mit exzellenter Python- und Jupyter-Unterstützung.
-* **JupyterLab / Jupyter Notebook**: Interaktive, webbasierte Umgebungen, ideal für explorative Datenanalyse, Visualisierungen und das Teilen von Code. (Wie in diesem Kurs verwendet)
-* **PyCharm**: Eine leistungsstarke IDE speziell für Python, mit einer kostenlosen Community-Version und einer kostenpflichtigen Professional-Version.
-* **Google Colaboratory (Colab)**: Kostenlose Jupyter-Notebook-Umgebung, die in der Cloud läuft und Zugriff auf GPUs/TPUs bietet, ideal für Deep Learning Experimente.
+* **Visual Studio Code (VS Code)**: Ein sehr beliebter, kostenloser und erweiterbarer Code-Editor mit exzellenter Python- und Jupyter-Unterstützung. ([code.visualstudio.com](https://code.visualstudio.com/))
+* **JupyterLab / Jupyter Notebook**: Interaktive, webbasierte Umgebungen, ideal für explorative Datenanalyse, Visualisierungen und das Teilen von Code. ([jupyter.org](https://jupyter.org/))
+* **PyCharm**: Eine leistungsstarke IDE speziell für Python, mit einer kostenlosen Community-Version und einer kostenpflichtigen Professional-Version. ([www.jetbrains.com/pycharm/](https://www.jetbrains.com/pycharm/))
+* **Google Colaboratory (Colab)**: Kostenlose Jupyter-Notebook-Umgebung, die in der Cloud läuft und Zugriff auf GPUs/TPUs bietet. ([colab.research.google.com](https://colab.research.google.com/))
 
 ### Versionskontrolle
 
-* **Git**: Das Standard-System für verteilte Versionskontrolle, unerlässlich für die Zusammenarbeit und das Nachverfolgen von Code-Änderungen.
-* **GitHub / GitLab / Bitbucket**: Web-basierte Plattformen für das Hosting von Git-Repositories, die zusätzliche Funktionen für Kollaboration, Issue-Tracking und CI/CD bieten.
+* **Git**: Das Standard-System für verteilte Versionskontrolle. ([git-scm.com](https://git-scm.com/))
+* **GitHub**: Web-basierte Plattform für das Hosting von Git-Repositories. ([github.com](https://github.com/))
+* **GitLab**: Web-basierte Plattform für das Hosting von Git-Repositories mit Fokus auf den gesamten DevOps-Lebenszyklus. ([about.gitlab.com](https://about.gitlab.com/))
+* **Bitbucket**: Web-basierte Plattform für das Hosting von Git-Repositories von Atlassian. ([bitbucket.org](https://bitbucket.org/))
 
 ### Datenvisualisierung
 
-* **Matplotlib**: Eine grundlegende Bibliothek zur Erstellung statischer, animierter und interaktiver Visualisierungen in Python.
-* **Seaborn**: Baut auf Matplotlib auf und bietet eine High-Level-Schnittstelle für ansprechendere und informativere statistische Grafiken.
-* **Plotly / Dash**: Für interaktive Web-basierte Visualisierungen und Dashboards. Dash ist ein Framework zum Erstellen von Analyseanwendungen mit Python.
-* **Tableau / Microsoft Power BI**: Führende Business-Intelligence-Tools für fortgeschrittene Datenvisualisierung und Dashboarding (eher für BI-Analysten, aber nützlich zu kennen).
+* **Matplotlib**: Eine grundlegende Bibliothek zur Erstellung statischer, animierter und interaktiver Visualisierungen in Python. ([matplotlib.org](https://matplotlib.org/))
+* **Seaborn**: Baut auf Matplotlib auf und bietet eine High-Level-Schnittstelle für ansprechendere und informativere statistische Grafiken. ([seaborn.pydata.org](https://seaborn.pydata.org/))
+* **Plotly / Dash**: Für interaktive Web-basierte Visualisierungen und Dashboards. Dash ist ein Framework zum Erstellen von Analyseanwendungen mit Python. (Plotly: [plotly.com/python/](https://plotly.com/python/), Dash: [plotly.com/dash/](https://plotly.com/dash/))
+* **Tableau**: Führendes Business-Intelligence-Tool für fortgeschrittene Datenvisualisierung und Dashboarding. ([www.tableau.com](https://www.tableau.com/))
+* **Microsoft Power BI**: Business-Intelligence-Tool von Microsoft. ([powerbi.microsoft.com](https://powerbi.microsoft.com/))
 
 ### MLOps und Deployment
 
-* **Docker**: Zum Erstellen, Verteilen und Ausführen von Anwendungen in Containern, um Konsistenz über verschiedene Umgebungen hinweg sicherzustellen.
-* **Kubernetes (K8s)**: Ein System zur Automatisierung der Bereitstellung, Skalierung und Verwaltung von containerisierten Anwendungen.
-* **MLflow**: Eine Open-Source-Plattform zur Verwaltung des gesamten Machine-Learning-Lebenszyklus, einschließlich Experiment-Tracking, Code-Packaging, Modell-Deployment und Modell-Registry.
-* **DVC (Data Version Control)**: Ein Tool zur Versionskontrolle von Daten und Machine-Learning-Modellen, oft in Verbindung mit Git verwendet.
-* **FastAPI / Flask**: Python-Webframeworks, die häufig zum Erstellen von APIs für das Deployment von ML-Modellen verwendet werden.
-* **BentoML**: Ein Framework zum Erstellen produktionsreifer KI-Anwendungen.
+* **Docker**: Zum Erstellen, Verteilen und Ausführen von Anwendungen in Containern. ([www.docker.com](https://www.docker.com/))
+* **Kubernetes (K8s)**: Ein System zur Automatisierung der Bereitstellung, Skalierung und Verwaltung von containerisierten Anwendungen. ([kubernetes.io](https://kubernetes.io/))
+* **MLflow**: Eine Open-Source-Plattform zur Verwaltung des gesamten Machine-Learning-Lebenszyklus. ([mlflow.org](https://mlflow.org/))
+* **DVC (Data Version Control)**: Ein Tool zur Versionskontrolle von Daten und Machine-Learning-Modellen. ([dvc.org](https://dvc.org/))
+* **FastAPI**: Python-Webframework zum Erstellen von APIs. ([fastapi.tiangolo.com](https://fastapi.tiangolo.com/))
+* **Flask**: Ein leichtgewichtiges Python-Webframework. ([flask.palletsprojects.com](https://flask.palletsprojects.com/))
+* **BentoML**: Ein Framework zum Erstellen produktionsreifer KI-Anwendungen. ([www.bentoml.com](https://www.bentoml.com/))
 
 ### Cloud-Plattformen
 
 Viele Cloud-Anbieter bieten umfassende Suiten für Data Science, Machine Learning und MLOps:
 
-* **Amazon Web Services (AWS)**:
-    * **Amazon SageMaker**: Vollständig verwaltete Plattform für den gesamten ML-Workflow.
-    * **EC2** (Compute), **S3** (Storage), diverse Datenbankdienste.
-* **Google Cloud Platform (GCP)**:
-    * **Vertex AI**: Einheitliche ML-Plattform.
-    * **Google Compute Engine**, **Cloud Storage**, **BigQuery**.
-* **Microsoft Azure**:
-    * **Azure Machine Learning**: Umfassender Dienst für ML-Entwicklung und -Deployment.
-    * **Virtual Machines**, **Blob Storage**, diverse Datenbankdienste.
+* **Amazon Web Services (AWS)**: ([aws.amazon.com](https://aws.amazon.com/))
+    * **Amazon SageMaker**: Vollständig verwaltete Plattform für den gesamten ML-Workflow. ([aws.amazon.com/sagemaker/](https://aws.amazon.com/sagemaker/))
+* **Google Cloud Platform (GCP)**: ([cloud.google.com](https://cloud.google.com/))
+    * **Vertex AI**: Einheitliche ML-Plattform. ([cloud.google.com/vertex-ai](https://cloud.google.com/vertex-ai))
+* **Microsoft Azure**: ([azure.microsoft.com](https://azure.microsoft.com/))
+    * **Azure Machine Learning**: Umfassender Dienst für ML-Entwicklung und -Deployment. ([azure.microsoft.com/services/machine-learning/](https://azure.microsoft.com/services/machine-learning/))
 
 ### Datenbanktechnologien
 
-* **Relationale Datenbanken (SQL)**: z.B. PostgreSQL, MySQL, SQLite.
-* **NoSQL-Datenbanken**: z.B. MongoDB (dokumentenorientiert), Redis (Key-Value), Cassandra (spaltenorientiert) – je nach Anwendungsfall.
+* **Relationale Datenbanken (SQL)**:
+    * **PostgreSQL**: ([www.postgresql.org](https://www.postgresql.org/))
+    * **MySQL**: ([www.mysql.com](https://www.mysql.com/))
+    * **SQLite**: ([www.sqlite.org](https://www.sqlite.org/))
+* **NoSQL-Datenbanken**:
+    * **MongoDB**: (dokumentenorientiert) ([www.mongodb.com](https://www.mongodb.com/))
+    * **Redis**: (Key-Value) ([redis.io](https://redis.io/))
+    * **Apache Cassandra**: (spaltenorientiert) ([cassandra.apache.org](http://cassandra.apache.org/))
 
 Diese Liste ist nicht abschließend, aber sie deckt viele der wichtigsten Werkzeuge ab, denen Sie in der Praxis begegnen werden. Die Auswahl der richtigen Tools hängt oft von den spezifischen Anforderungen des Projekts, des Teams und der Organisation ab.
 
@@ -311,6 +317,7 @@ Tragen Sie zu Projekten bei und sammeln Sie praktische Erfahrung:
 
 * **GitHub**: [github.com](https://github.com) - Suchen Sie nach Projekten mit Tags wie `good first issue`, `help wanted` in Bereichen wie `scikit-learn`, `pandas`, `tensorflow`, `pytorch` oder anderen Bibliotheken, die Sie interessieren.
 * **Kaggle Wettbewerbe**: [kaggle.com/competitions](https://www.kaggle.com/competitions) - Nehmen Sie an Wettbewerben teil, um Ihre Fähigkeiten zu testen und von anderen zu lernen. Oft gibt es auch Team-Möglichkeiten.
+* **CorrelAid**: [correlaid.org](https://correlaid.org/) - Ein Netzwerk von Data-Science-Enthusiasten, die Non-Profit-Organisationen mit Data-Science-Projekten unterstützen (hauptsächlich in Deutschland, aber auch international).
 * **DataKind**: [datakind.org](https://www.datakind.org) - Organisationen, die Data Science im Dienste der Menschheit einsetzen (Projekte oft für erfahrene Fachleute, aber es gibt auch Möglichkeiten, sich zu engagieren).
 * **Omdena**: [omdena.com](https://omdena.com/) - Kollaborative KI-Projekte zur Lösung realer Probleme.
 
