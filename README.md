@@ -103,7 +103,7 @@ Deutsch verfügbar)
 * **Videos**:
     * StatQuest: "k-nearest neighbors (kNN) clearly explained" [Link](https://www.youtube.com/watch?v=HVXime0nQeI)
 * **Artikel**:
-    * "An Introduction to K-Nearest Neighbours Algorithm" auf Towards Data Science: [Link](https://towardsdatascience.com/an-introduction-to-k-nearest-neighbours-algorithm-3ddc99883acd)
+    * "An Introduction to K-Nearest Neighbours Algorithm" auf Towards Data Science. [Link](https://towardsdatascience.com/an-introduction-to-k-nearest-neighbours-algorithm-3ddc99883acd)
 
 ### Lineare & Polynomiale Regression
 * **Bücher**:
@@ -116,7 +116,7 @@ Deutsch verfügbar)
 * **Videos**:
     * StatQuest: "Logistic Regression" ([Playlist](https://www.youtube.com/playlist?list=PLblh5JKOoLUKxzEP5HA2d-Li7IJkHfXSe))
 * **Artikel**:
-    * "Logistic Regression: Detailed Overview" (z.B. "Logistic Regression - Explained" auf Towards Data Science): [Link](https://towardsdatascience.com/logistic-regression-explained-593e9ddb7c6c)
+    * "Logistic Regression - Explained" auf Towards Data Science. [Link](https://towardsdatascience.com/logistic-regression-explained-593e9ddb7c6c)
 
 ### Entscheidungsbäume & Ensemble-Methoden (Random Forest, AdaBoost)
 * **Bücher**:
@@ -124,18 +124,18 @@ Deutsch verfügbar)
 * **Videos**:
     * StatQuest: Decision Trees (z.B. [Playlist](https://www.youtube.com/playlist?list=PLblh5JKOoLUKAtDViTvRGFpphEc24M-QH)), Random Forests, AdaBoost, Gradient Boost (XGBoost) - alle haben eigene Videos.
 * **Artikel**:
-    * "Understanding Random Forest" (z.B. "Random Forest, Explained: A Visual Guide with Code Examples" auf Towards Data Science): [Link](https://towardsdatascience.com/random-forest-explained-a-visual-guide-with-code-examples-9f736a6e1b3c)
+    * "Random Forest, Explained: A Visual Guide with Code Examples" auf Towards Data Science: [Link](https://towardsdatascience.com/random-forest-explained-a-visual-guide-with-code-examples-9f736a6e1b3c)
     * "A Gentle Introduction to AdaBoost" auf Machine Learning Plus: [Link](https://www.machinelearningplus.com/machine-learning/introduction-to-adaboost/)
 
 ### Support Vector Machines (SVM)
 * **Videos**:
     * StatQuest: "Support Vector Machines (SVMs), Clearly Explained" [Link auf statquest.org](https://statquest.org/support-vector-machines-clearly-explained/)
 * **Artikel**:
-    * "Understanding Support Vector Machine (SVM) algorithm" auf Towards Data Science.  (z.B. "Support Vector Machine (SVM) Explained" auf Towards Data Science): [Link](https://towardsdatascience.com/support-vector-machine-svm-explained-58e59708cae3)
+    * "Support Vector Machine (SVM) Explained" auf Towards Data Science: [Link](https://towardsdatascience.com/support-vector-machine-svm-explained-58e59708cae3)
 
 ### Naive Bayes
 * **Videos**:
-    * StatQuest: "Naive Bayes, Clearly Explained"
+    * StatQuest: "Naive Bayes, Clearly Explained" [Link](https://www.youtube.com/watch?v=O2L2Uv9pdDA)
 * **Artikel**:
     * "Naive Bayes Classifier Explained" auf Towards Data Science: [Link](https://towardsdatascience.com/naive-bayes-classifier-explained-50f9723571ed)
 
@@ -146,19 +146,20 @@ Deutsch verfügbar)
 * **Dokumentation & Artikel**:
     * Scikit-learn-Dokumentation zu [Model evaluation](https://scikit-learn.org/stable/modules/model_evaluation.html) (ROC, AUC, etc.).
     * Scikit-learn-Dokumentation zu [Tuning the hyper-parameters of an estimator](https://scikit-learn.org/stable/modules/grid_search.html).
-    * "Understanding AUC - ROC Curve" (z.B. "Understanding AUC Scores in Depth: What's the Point?" auf Towards Data Science): [Link](https://towardsdatascience.com/understanding-auc-scores-in-depth-whats-the-point-5f2505eb499f)
-    * "Hyperparameter Tuning Techniques in Machine Learning" (z.B. "Hyperparameter tuning in Python" auf Towards Data Science): [Link](https://towardsdatascience.com/hyperparameter-tuning-in-python-21a76794a1f7)
-    * "A Short Introduction to the Curse of Dimensionality" von Lilian Weng (Besuchen Sie Lilian Weng's Blog [lil-log](https://lilianweng.github.io/lil-log/) und suchen Sie nach "Curse of Dimensionality", z.B. im Kontext von Policy Gradients [hier](https://lilianweng.github.io/posts/2018-04-08-policy-gradient/)).
+    * "Understanding AUC Scores in Depth: What's the Point?" auf Towards Data Science: [Link](https://towardsdatascience.com/understanding-auc-scores-in-depth-whats-the-point-5f2505eb499f)
+    * "Hyperparameter tuning in Python" auf Towards Data Science: [Link](https://towardsdatascience.com/hyperparameter-tuning-in-python-21a76794a1f7)
+
 * **Videos**:
-    * StatQuest: "ROC and AUC, Clearly Explained"
-    * Videos zu Kreuzvalidierung und Hyperparameter-Tuning (z.B. von Sentdex oder Krish Naik auf YouTube).
+    * StatQuest: "ROC and AUC, Clearly Explained" [Link](https://www.youtube.com/watch?v=4jRBRDbJemM)
+    * Videos zu Kreuzvalidierung und Hyperparameter-Tuning (z.B. von [Sentdex](https://youtube.com/user/sentdex) oder [Krish Naik](https://www.youtube.com/@krishnaik06) auf YouTube).
 
 ### Modellinterpretation (SHAP)
 * **Bücher/Paper**:
     * Das ursprüngliche SHAP-Paper: "A Unified Approach to Interpreting Model Predictions" von Lundberg und Lee [Link](https://proceedings.neurips.cc/paper/2017/file/8a20a8621978632d76c43dfd28b67767-Paper.pdf).
 * **Dokumentation & Artikel**:
     * SHAP GitHub Repository und Dokumentation: [github.com/slundberg/shap](https://github.com/slundberg/shap)
-    * "Explain Your Model with SHAP Values" auf Towards Data Science (z.B. "SHapley Additive exPlanations or SHAP : What is it ?" auf DataScientest): [Link](https://datascientest.com/en/shap-what-is-it).
+    * "Using SHAP Values to Explain How Your Machine Learning Model Works" auf Towards Data Science [Link](https://towardsdatascience.com/using-shap-values-to-explain-how-your-machine-learning-model-works-732b3f40e137/)
+    * "SHapley Additive exPlanations or SHAP : What is it ?" auf DataScientest: [Link](https://datascientest.com/en/shap-what-is-it).
 
 ---
 
@@ -169,8 +170,7 @@ Deutsch verfügbar)
     * "Deep Learning with Python" von François Chollet (Entwickler von Keras). (Deutscher Titel oft: "Deep Learning mit Python und Keras")
 * **Videos**:
     * 3Blue1Brown YouTube-Kanal: Neural Networks series [Playlist](youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) auf dem Kanal [youtube.com/@3blue1brown](http://googleusercontent.com/youtube.com/c/3blue1brown) für ein intuitives Verständnis.
-    * Lex Fridman Podcast: [Podcast Playlist](youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4) - Interviews mit führenden KI-Forschern (eher für breiteren Kontext und Inspiration).
-    * Two Minute Papers YouTube-Kanal: [youtube.com/@TwoMinutePapers](http://googleusercontent.com/youtube.com/user/TwoMinutePapers) - Fasst spannende neue KI-Forschungsarbeiten zusammen.
+    * Two Minute Papers YouTube-Kanal: [youtube.com/@TwoMinutePapers](https://www.youtube.com/@TwoMinutePapers) - Fasst spannende neue KI-Forschungsarbeiten zusammen.
 
 ### PyTorch
 * **Dokumentation & Tutorials**:
