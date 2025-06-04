@@ -42,8 +42,8 @@ Diese Liste enthält ergänzende Materialien wie Bücher, Artikel, Online-Kurse 
 * **Bücher**:
     * "Python for Data Analysis" von Wes McKinney: Ein praktischer Leitfaden zur Datenmanipulation mit Pandas. Unverzichtbar für Python-basierte Data Science. (Deutscher Titel oft: "Python zur Datenanalyse")
     * "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow" von Aurélien Géron: Ein umfassendes und sehr beliebtes Buch, das eine breite Palette von ML-Konzepten und Implementierungen abdeckt. (Deutscher Titel oft: "Praxiseinstieg Machine Learning mit Scikit-Learn, Keras & TensorFlow")
-    * "An Introduction to Statistical Learning (with Applications in R or Python)" von Gareth James, Daniela Witten, Trevor Hastie und Robert Tibshirani: Bietet einen klaren und zugänglichen Überblick über statistische Lernmethoden. Die Python-Version ist besonders relevant. (Kostenloses PDF online verfügbar)
-    * "The Elements of Statistical Learning" von Trevor Hastie, Robert Tibshirani und Jerome Friedman: Ein fortgeschritteneres und umfassenderes Werk, oft als eine Bibel des maschinellen Lernens betrachtet. (Kostenloses PDF online verfügbar)
+    * "An Introduction to Statistical Learning (with Applications in R or Python)" von Gareth James, Daniela Witten, Trevor Hastie und Robert Tibshirani: Bietet einen klaren und zugänglichen Überblick über statistische Lernmethoden. Die Python-Version ist besonders relevant. (Kostenloses PDF online verfügbar unter [www.statlearning.com](https://www.statlearning.com/))
+    * "The Elements of Statistical Learning" von Trevor Hastie, Robert Tibshirani und Jerome Friedman: Ein fortgeschritteneres und umfassenderes Werk, oft als eine Bibel des maschinellen Lernens betrachtet. (Kostenloses PDF online verfügbar unter [hastie.su.domains/ElemStatLearn/](https://hastie.su.domains/ElemStatLearn/))
     * "Pattern Recognition and Machine Learning" von Christopher M. Bishop: Ein klassisches, eher theoretisches Lehrbuch zum maschinellen Lernen.
 * **Websites & Blogs**:
 
@@ -67,15 +67,15 @@ Diese Liste enthält ergänzende Materialien wie Bücher, Artikel, Online-Kurse 
     * Pandas-Dokumentation: [pandas.pydata.org/pandas-docs/stable/](https://pandas.pydata.org/pandas-docs/stable/)
     * Scikit-learn-Dokumentation: [scikit-learn.org/stable/documentation.html](https://scikit-learn.org/stable/documentation.html)
 * **Videos**:
-    * Corey Schafer's Python YouTube-Kanal: Ausgezeichnete Tutorials zu verschiedenen Python-Themen, einschließlich Pandas und OOP.
-    * Sentdex YouTube-Kanal: Behandelt eine breite Palette von Python-Programmierung, einschließlich Datenanalyse und maschinellem Lernen.
+    * Corey Schafer's Python YouTube-Kanal: [youtube.com/@coreyms](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g) - Ausgezeichnete Tutorials zu verschiedenen Python-Themen, einschließlich Pandas und OOP.
+    * Sentdex YouTube-Kanal: [youtube.com/@sentdex](https://youtube.com/user/sentdex) - Behandelt eine breite Palette von Python-Programmierung, einschließlich Datenanalyse und maschinellem Lernen.
 
 ---
 
 ## Statistische Grundlagen & EDA (Explorative Datenanalyse) 📊
 
 * **Bücher**:
-    * "Think Stats: Exploratory Data Analysis in Python" von Allen B. Downey (Kostenloses PDF online verfügbar).
+    * "Think Stats: Exploratory Data Analysis in Python" von Allen B. Downey (Kostenlos online verfügbar unter [allendowney.github.io/ThinkStats/](https://allendowney.github.io/ThinkStats/)).
     * "Practical Statistics for Data Scientists" von Peter Bruce, Andrew Bruce & Peter Gedeck. (Deutscher Titel oft: "Statistik für Data Scientists: Praxiswissen für den Berufsalltag")
 * **Online-Kurse**:
     * Khan Academy's Statistics and Probability: [khanacademy.org/math/statistics-probability](https://khanacademy.org/math/statistics-probability) (Viele Inhalte auch auf Deutsch verfügbar)
@@ -83,7 +83,7 @@ Diese Liste enthält ergänzende Materialien wie Bücher, Artikel, Online-Kurse 
     * "Understanding Descriptive and Inferential Statistics" - Viele gute Artikel finden sich auf Towards Data Science oder ähnlichen Blogs.
 Deutsch verfügbar)
 * **Videos**:
-    * 3Blue1Brown Youtube-Kanal: Statistische und mathematische Grundlagen gut erklärt und visualisiert.
+    * 3Blue1Brown Youtube-Kanal: [youtube.com/@3blue1brown](https://www.youtube.com/c/3blue1brown) - Statistische und mathematische Grundlagen gut erklärt und visualisiert.
 
 ---
 
@@ -93,7 +93,7 @@ Deutsch verfügbar)
     * Scikit-learn-Dokumentation zu [Preprocessing data](https://scikit-learn.org/stable/modules/preprocessing.html).
     * Artikel über Feature Scaling, Kodierung kategorialer Daten, Umgang mit fehlenden Werten (z.B. auf KDnuggets, Towards Data Science).
 * **Videos**:
-    * StatQuest with Josh Starmer (YouTube): Hat ausgezeichnete, leicht verständliche Videos zu verschiedenen statistischen und ML-Konzepten, einschließlich derer, die für die Vorverarbeitung relevant sind, wie PCA (was Multikollinearität berührt).
+    * StatQuest with Josh Starmer (YouTube): Hat ausgezeichnete, leicht verständliche Videos zu verschiedenen statistischen und ML-Konzepten, einschließlich derer, die für die Vorverarbeitung relevant sind. Der [Video Index auf statquest.org](https://statquest.org/video-index/) ist sehr hilfreich.
 
 ---
 
@@ -101,43 +101,43 @@ Deutsch verfügbar)
 
 ### k-Nächste-Nachbarn (kNN)
 * **Videos**:
-    * StatQuest: "k-nearest neighbors (kNN) clearly explained"
+    * StatQuest: "k-nearest neighbors (kNN) clearly explained" [Link](https://www.youtube.com/watch?v=HVXime0nQeI)
 * **Artikel**:
-    * "A Detailed Introduction to K-Nearest Neighbor (KNN) Algorithm" auf Towards Data Science.
+    * "An Introduction to K-Nearest Neighbours Algorithm" auf Towards Data Science: [Link](https://towardsdatascience.com/an-introduction-to-k-nearest-neighbours-algorithm-3ddc99883acd)
 
 ### Lineare & Polynomiale Regression
 * **Bücher**:
     * Kapitel in "An Introduction to Statistical Learning."
 * **Videos**:
-    * StatQuest: "Linear Regression, Clearly Explained"
+    * StatQuest: "Linear Regression, Clearly Explained" [Link](https://www.youtube.com/watch?v=7ArmBVF2dCs)
     * Khan Academy Videos zur linearen Regression.
 
 ### Logistische Regression
 * **Videos**:
-    * StatQuest: "Logistic Regression"
+    * StatQuest: "Logistic Regression" ([Playlist](https://www.youtube.com/playlist?list=PLblh5JKOoLUKxzEP5HA2d-Li7IJkHfXSe))
 * **Artikel**:
-    * "Logistic Regression: Detailed Overview" auf Towards Data Science.
+    * "Logistic Regression: Detailed Overview" (z.B. "Logistic Regression - Explained" auf Towards Data Science): [Link](https://towardsdatascience.com/logistic-regression-explained-593e9ddb7c6c)
 
 ### Entscheidungsbäume & Ensemble-Methoden (Random Forest, AdaBoost)
 * **Bücher**:
     * Kapitel in "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow." (Deutscher Titel oft: "Praxiseinstieg Machine Learning mit Scikit-Learn, Keras & TensorFlow")
 * **Videos**:
-    * StatQuest: Decision Trees, Random Forests, AdaBoost, Gradient Boost (XGBoost) - alle haben eigene Videos.
+    * StatQuest: Decision Trees (z.B. [Playlist](https://www.youtube.com/playlist?list=PLblh5JKOoLUKAtDViTvRGFpphEc24M-QH)), Random Forests, AdaBoost, Gradient Boost (XGBoost) - alle haben eigene Videos.
 * **Artikel**:
-    * "Understanding Random Forest" auf Towards Data Science.
-    * "A Gentle Introduction to AdaBoost" auf Machine Learning Mastery.
+    * "Understanding Random Forest" (z.B. "Random Forest, Explained: A Visual Guide with Code Examples" auf Towards Data Science): [Link](https://towardsdatascience.com/random-forest-explained-a-visual-guide-with-code-examples-9f736a6e1b3c)
+    * "A Gentle Introduction to AdaBoost" auf Machine Learning Plus: [Link](https://www.machinelearningplus.com/machine-learning/introduction-to-adaboost/)
 
 ### Support Vector Machines (SVM)
 * **Videos**:
-    * StatQuest: "Support Vector Machines (SVMs), Clearly Explained"
+    * StatQuest: "Support Vector Machines (SVMs), Clearly Explained" [Link auf statquest.org](https://statquest.org/support-vector-machines-clearly-explained/)
 * **Artikel**:
-    * "Understanding Support Vector Machine (SVM) algorithm" auf Towards Data Science.
+    * "Understanding Support Vector Machine (SVM) algorithm" auf Towards Data Science.  (z.B. "Support Vector Machine (SVM) Explained" auf Towards Data Science): [Link](https://towardsdatascience.com/support-vector-machine-svm-explained-58e59708cae3)
 
 ### Naive Bayes
 * **Videos**:
     * StatQuest: "Naive Bayes, Clearly Explained"
 * **Artikel**:
-    * "Naive Bayes Classifier Explained" auf Towards Data Science.
+    * "Naive Bayes Classifier Explained" auf Towards Data Science: [Link](https://towardsdatascience.com/naive-bayes-classifier-explained-50f9723571ed)
 
 ---
 
@@ -146,31 +146,31 @@ Deutsch verfügbar)
 * **Dokumentation & Artikel**:
     * Scikit-learn-Dokumentation zu [Model evaluation](https://scikit-learn.org/stable/modules/model_evaluation.html) (ROC, AUC, etc.).
     * Scikit-learn-Dokumentation zu [Tuning the hyper-parameters of an estimator](https://scikit-learn.org/stable/modules/grid_search.html).
-    * "Understanding AUC - ROC Curve" auf Towards Data Science.
-    * "Hyperparameter Tuning Techniques in Machine Learning" auf diversen Blogs.
-    * "A Short Introduction to the Curse of Dimensionality" von Lilian Weng.
+    * "Understanding AUC - ROC Curve" (z.B. "Understanding AUC Scores in Depth: What's the Point?" auf Towards Data Science): [Link](https://towardsdatascience.com/understanding-auc-scores-in-depth-whats-the-point-5f2505eb499f)
+    * "Hyperparameter Tuning Techniques in Machine Learning" (z.B. "Hyperparameter tuning in Python" auf Towards Data Science): [Link](https://towardsdatascience.com/hyperparameter-tuning-in-python-21a76794a1f7)
+    * "A Short Introduction to the Curse of Dimensionality" von Lilian Weng (Besuchen Sie Lilian Weng's Blog [lil-log](https://lilianweng.github.io/lil-log/) und suchen Sie nach "Curse of Dimensionality", z.B. im Kontext von Policy Gradients [hier](https://lilianweng.github.io/posts/2018-04-08-policy-gradient/)).
 * **Videos**:
     * StatQuest: "ROC and AUC, Clearly Explained"
     * Videos zu Kreuzvalidierung und Hyperparameter-Tuning (z.B. von Sentdex oder Krish Naik auf YouTube).
 
 ### Modellinterpretation (SHAP)
 * **Bücher/Paper**:
-    * Das ursprüngliche SHAP-Paper: "A Unified Approach to Interpreting Model Predictions" von Lundberg und Lee.
+    * Das ursprüngliche SHAP-Paper: "A Unified Approach to Interpreting Model Predictions" von Lundberg und Lee [Link](https://proceedings.neurips.cc/paper/2017/file/8a20a8621978632d76c43dfd28b67767-Paper.pdf).
 * **Dokumentation & Artikel**:
     * SHAP GitHub Repository und Dokumentation: [github.com/slundberg/shap](https://github.com/slundberg/shap)
-    * "Explain Your Model with SHAP Values" auf Towards Data Science.
+    * "Explain Your Model with SHAP Values" auf Towards Data Science (z.B. "SHapley Additive exPlanations or SHAP : What is it ?" auf DataScientest): [Link](https://datascientest.com/en/shap-what-is-it).
 
 ---
 
 ## Deep Learning 💡
 
 * **Bücher**:
-    * "Deep Learning" von Ian Goodfellow, Yoshua Bengio und Aaron Courville (Das "Deep Learning Buch" - kostenlos online).
+    * "Deep Learning" von Ian Goodfellow, Yoshua Bengio und Aaron Courville (Das "Deep Learning Buch" - kostenlos online unter [www.deeplearningbook.org](https://www.deeplearningbook.org/)).
     * "Deep Learning with Python" von François Chollet (Entwickler von Keras). (Deutscher Titel oft: "Deep Learning mit Python und Keras")
 * **Videos**:
-    * 3Blue1Brown YouTube-Kanal: Serie zu Neuronalen Netzen für ein intuitives Verständnis.
-    * Lex Fridman Podcast: Interviews mit führenden KI-Forschern (eher für breiteren Kontext und Inspiration).
-    * Two Minute Papers YouTube-Kanal: Fasst spannende neue KI-Forschungsarbeiten zusammen.
+    * 3Blue1Brown YouTube-Kanal: Neural Networks series [Playlist](youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) auf dem Kanal [youtube.com/@3blue1brown](http://googleusercontent.com/youtube.com/c/3blue1brown) für ein intuitives Verständnis.
+    * Lex Fridman Podcast: [Podcast Playlist](youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4) - Interviews mit führenden KI-Forschern (eher für breiteren Kontext und Inspiration).
+    * Two Minute Papers YouTube-Kanal: [youtube.com/@TwoMinutePapers](http://googleusercontent.com/youtube.com/user/TwoMinutePapers) - Fasst spannende neue KI-Forschungsarbeiten zusammen.
 
 ### PyTorch
 * **Dokumentation & Tutorials**:
@@ -178,16 +178,16 @@ Deutsch verfügbar)
 
 ### Convolutional Neural Networks (CNN)
 * **Artikel**:
-    * "A Comprehensive Guide to Convolutional Neural Networks" auf Towards Data Science.
-    * Stanford CS231n: Convolutional Neural Networks for Visual Recognition (Kursnotizen sind ausgezeichnet und frei online verfügbar).
+    * "A Comprehensive Guide to Convolutional Neural Networks" auf Towards Data Science [PDF Link](https://ise.ncsu.edu/wp-content/uploads/sites/9/2022/08/A-Comprehensive-Guide-to-Convolutional-Neural-Networks-%E2%80%94-the-ELI5-way-_-by-Sumit-Saha-_-Towards-Data-Science.pdf).
+    * Stanford CS231n: Convolutional Neural Networks for Visual Recognition (Kurs-Website 2017 mit Notizen): [cs231n.stanford.edu/2017/](https://cs231n.stanford.edu/2017/)
 * **Videos**:
     * Viele Videos auf YouTube, die CNN-Architekturen erklären (z.B. LeNet, AlexNet, VGG, ResNet).
 
 ### Representation Learning (Autoencoder, PCA, t-SNE)
 * **Artikel**:
-    * "Understanding Autoencoders" auf Towards Data Science.
-    * "Principal Component Analysis (PCA) Explained" auf diversen Blogs. (Hauptkomponentenanalyse auf Deutsch)
-    * "How to Use t-SNE Effectively" auf Distill.pub.
+    * "Understanding Autoencoders" (z.B. "Autoencoders and the Denoising Feature" auf Towards Data Science): [Link](https://towardsdatascience.com/autoencoders-and-the-denoising-feature-from-theory-to-practice-db7f7ad8fc78).
+    * "Principal Component Analysis (PCA) Explained" auf Towards Data Science: [Link](https://towardsdatascience.com/principal-component-analysis-pca-8133b02f11bd) (Hauptkomponentenanalyse auf Deutsch).
+    * "How to Use t-SNE Effectively" auf Distill.pub: [Link](https://distill.pub/2016/misread-tsne/)
 * **Videos**:
     * StatQuest: "Principal Component Analysis (PCA), Step-by-Step"
     * StatQuest: "t-SNE, Clearly Explained"
